@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "javascript web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xordion/web_crawler.git"
+  },
+  "author": "xordion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xordion/web_crawler/issues"
+  },
+  "homepage": "https://github.com/xordion/web_crawler#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "css-select": "^1.2.0",
+    "superagent": "^2.0.0",
+    "cheerio": "^0.20.0"
+  }
+}
